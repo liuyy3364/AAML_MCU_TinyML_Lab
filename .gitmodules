@@ -4,6 +4,7 @@
 [submodule "AAML_TFLM_cmsis"]
 	path = AAML_TFLM_cmsis
 	url = https://github.com/liuyy3364/AAML_TFLM_cmsis.git
+	branch = student
 [submodule "AAML_TFLM_basic"]
 	path = AAML_TFLM_basic
 	url = https://github.com/liuyy3364/AAML_TFLM_basic.git
